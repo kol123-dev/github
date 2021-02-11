@@ -1,6 +1,7 @@
-# GitHub
+# GitHub.
 
-# markdown is an easy way to format your text
+# markdown is an easy way to format your text,denoted as .md
 
-# readme
+# readme.
+git is a version control system for tracking programmers codes.
       
